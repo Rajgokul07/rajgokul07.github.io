@@ -633,7 +633,6 @@ input {
 
 .place__subtitle {
   font-size: var(--smaller-font-size);
-  margin-bottom: var(--mb-1-25);
 }
 
 .place__button {
